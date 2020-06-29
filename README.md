@@ -10,7 +10,7 @@ Objective of this presentation using DecisionTree Classifier:
 ⏉    Recency, Frequency, and Monetary Value (RFM) helps inform customer segmentation in clusters and 
       identifies probability to churn for each cluster. 
 
-⏉	    Then could devise a targeted marketing campaign and incentivize these customers to extend their 
+⏉     Then could devise a targeted marketing campaign and incentivize these customers to extend their 
        contract and continue to procure products or services to ensure customer retention instead of 
        high cost of acquiring new customer. 
 
