@@ -20,7 +20,11 @@ Objective of this presentation using DecisionTree Classifier:
 ⏉   Make proactive decision to improve customer retention after understanding the propensity of 
     customers to churn. 
 
+Model Evaluation Techniques:
 
+     To measure model optimization we used the f1 score. It provides a better measure of incorrectly 
+    classified cases while accuracy only measures cases that are correctly identified. In addition, the f1 
+    score is a better metric for an imbalanced class like the one observed in our dataset
 
 
 Citation (Reference):
