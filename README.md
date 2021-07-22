@@ -41,6 +41,9 @@ In the file that i have attached includes my exploration in association rule-min
 ![image](https://user-images.githubusercontent.com/32416129/126623182-aaa01543-6a11-498a-b63e-c0d0980e47cf.png)
 
 
+PS: 
+Refer to the  "**Market Basket Analysis_Customer Segmentation and Association-Mining using Apriori and FP Growth Algorithm.pdf**" file in this directory for more details of my data exploration
+
 Citation (Reference):
 1. Richard Farrow, William Trevino, Vitaly Briker, and Brent Allen, “Identifying Customer Churn-in After-market Operations using Machine Learning Algorithms”, Vol. 2 Issue 3
 
