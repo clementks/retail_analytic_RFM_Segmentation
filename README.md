@@ -1,4 +1,4 @@
-# retail_analytic_RFM_Segmentation & Association Mining for Cross-Selling
+# RFM_Segmentation & Association Mining for Cross-Selling
 Predictive DecisionTree Classifier based on Customer RFM Segment_Presentation
 
 Dataset:
