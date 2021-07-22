@@ -1,4 +1,4 @@
-# retail_analytic_RFM_Segmentation
+# retail_analytic_RFM_Segmentation & Association Mining for Cross-Selling
 Predictive DecisionTree Classifier based on Customer RFM Segment_Presentation
 
 Dataset:
@@ -25,6 +25,10 @@ Model Evaluation Techniques:
      To measure model optimization we used the f1 score. It provides a better measure of incorrectly 
     classified cases while accuracy only measures cases that are correctly identified. In addition, the f1 
     score is a better metric for an imbalanced class like the one observed in our dataset
+
+
+Cross selling is the ability to sell more products to a customer by analyzing the customer’s purchasing trends as well as  patterns, which is ubiquitous in both the online and offline worlds. The simplicity and the effectiveness of the idea make it an essential and powerful marketing tool for all types of retailers. The idea of cross selling can be extended to any organization, irrespective of whether it is an online or offline retailer or whether it is selling its products to the end users of whole sellers.
+In the file that i have attached includes my exploration in association rule-mining using Python Scripting language since it is a useful market basket analysis technique that can be used to determine the potential opportunities for cross selling.
 
 
 Citation (Reference):
